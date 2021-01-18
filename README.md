@@ -1,3 +1,7 @@
+During this course project I was part of a software development team that focused on automating testing for a web application. I created frontend and backend test cases as well as reviewed pull requests from team members. These test cases were created based off of the given functional requirements, as well as any additional necessary additions we came across through out the project. We also used peer programming for a number of stages in this project, both in development of the application and in testing.
+Here is an example of one of our pull request peer reviews: https://github.com/aubreymcleod/cisc327_group_project/pull/31
+
+
 # GitHub Actions CI Template for Selenium+Flask MVC
 
 [![](https://github.com/aubreymcleod/cisc327_group_project/workflows/SeetGeek-Build/badge.svg)]()
